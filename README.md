@@ -5,4 +5,4 @@ what did i do:
 shrink 7nm to 5nm project:
 make a stepping stone for process shrink,use laptop,we will optimize 7nm and little bit shrink,name it 6nm process and manufacture for laptop,when R&D team and production line familiar with 6nm processor,shrink to 5nm project change from impossible to possible
 arsenic polluted project:
-use electrolysis to detached electron out of as3+ and change it to as5+,mix with iron and we had non toxic iron salt
+use electrolysis to detached electron out of as5+ and change it to as3+,mix with iron and we had non toxic iron salt
